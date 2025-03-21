@@ -1,0 +1,20 @@
+
+p, ul {
+    color: #303030;
+    line-height: 1.2;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+    color: #101010;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.menu {
+    font-size: 24px;
+}
+
+a {
+    text-decoration: none;
+    color: #f4ab00;
+}
